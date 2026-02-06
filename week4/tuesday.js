@@ -46,11 +46,7 @@ let a = 20;
 let b = 8;
 let result = a - b;
 console.log(result);
-// 7. Predict output:
-//    ```js
-//   
-//    ```
-true
+
 // 8. Write code that compares two prices and prints the bigger one.
 const priceA = 24.99;
 const priceB = 10.30;
